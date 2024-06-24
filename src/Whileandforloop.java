@@ -10,7 +10,7 @@ public class Whileandforloop {
 
     void forloop() {
         for ( int i = 2; i <23; i+=2) {
-            System.out.println("even number" + i );
+            System.out.println(" The even number" + i );
         }
     }
     public static void main (String[]args){
