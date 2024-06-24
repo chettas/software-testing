@@ -2,7 +2,7 @@ public class Whileandforloop {
     void whileloop() {
         int a= 1;
         while (a < 10) {
-            System.out.println("the value of a is:" + a);
+            System.out.println("The value of a is:" + a);
             a++;
         }
 
