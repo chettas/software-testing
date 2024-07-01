@@ -1,14 +1,12 @@
 public class Methodoverloading {
  public static int add(int a,int b){
-    return a-b;
+    return a+b;
 
                  }
  public static double add(double a, double b){
-     return a*b;
+     return a+b;
             }
- public static int add(int a , int b,int c){
-     return a+b+c;
-          }
+
  public static void main (String [] args){
      int intsum= add(10 ,15);
      double intdouble=add(27.5,32.6);
